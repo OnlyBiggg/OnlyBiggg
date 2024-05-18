@@ -4,8 +4,7 @@ Hi there! My name is Tran Van Dai, and I'm currently a student at Ho Chi Minh Ci
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/superbiggg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/www.youtube.com/@VanwDai) 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=OnlyBiggg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OnlyBiggg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OnlyBiggg&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyBiggg&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
