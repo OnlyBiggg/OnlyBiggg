@@ -1,5 +1,5 @@
 # 💫About Me :
-My name is Tran Van Dai. Currently, I am a student majoring in artificial intelligence at Ho Chi Minh City University of Technology and Education. I am very interested in learning algorithms in machine learning and deep learning. I am interested in the following topics: Computer Vision, NLP.
+Hi there! My name is Tran Van Dai, and I'm currently a student at Ho Chi Minh City University of Technology and Education, majoring in Artificial Intelligence. I'm passionate about Computer Vision and NLP. Let's explore AI together!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/superbiggg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/www.youtube.com/@VanwDai) 
